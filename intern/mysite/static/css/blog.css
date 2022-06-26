@@ -1,0 +1,47 @@
+body { 
+    margin:0;
+    padding:0;
+    font-family:helvetica; 
+}
+
+a { 
+    color:#10a9f6;
+}
+
+h1 { 
+    font-weight:normal;
+    border-bottom:1px solid rgb(207, 206, 206);
+    padding:0 0 10px 0;
+}
+
+h2 {
+    font-weight:normal;
+    margin:30px 0 0;
+
+}
+
+#content { 
+    float:left;
+    width:60%;
+    padding:0 0 0 30px; 
+}
+
+#sidebar { 
+    float:right;
+    width:30%;
+    padding:10px;
+    background:rgb(229, 228, 228); 
+    height:100%;
+}
+
+p.date { 
+    color:rgb(207, 177, 177);
+    font-family: georgia, serif;
+    font-size: 12px;
+    font-style: italic; 
+}
+
+.pagination { 
+    margin:40px 0 0 10cm; 
+    font-weight:bold;
+}
